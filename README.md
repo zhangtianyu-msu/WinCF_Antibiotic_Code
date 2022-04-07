@@ -1,1 +1,1 @@
-# WinCF_Antibiotic_Code
+Matlab code for simulation of the WinCF model with antibiotic treatment. User should create a folder named "data" under the current folder containing the .m files, then type "Main_WinCF_1D_Antibiotic" in the matlab command line to run the simulation. Parameter values are given in SetPara_WinCF_1D_Antibiotic.m and can be changed.
